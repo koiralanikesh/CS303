@@ -1,20 +1,10 @@
-# CS490
-Web/Mobile Programming
-- My first web/Mobile Programming class assignment.
-- It has two folders. The first one is source which has the html filed named index.html
-- The html file contains
-
-```<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-
-</body>
-</html>
+# CS303 Assignment #1 Question #2
+- In this assignment, we were asked to write a program comparing the value of y1 and y2.
+- The value of y1 and y2 was defined.
+- We were supposed to compare y1 and y2 up to 100 with an increment of 10.
+- I have created two folders inside question 2.
+- The first folder contains the source cpp file.
+- The second folder has an image of the output.
 ```
-- Second folder is the documentation with the screenshot of my repository.
 - This was created by Nikesh Koirala
 
